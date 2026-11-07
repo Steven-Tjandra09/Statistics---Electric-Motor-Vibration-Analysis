@@ -13,5 +13,5 @@ A Python-based desktop application built with Tkinter, Pandas, and Matplotlib. T
 Ensure you have Python installed, then install the required dependencies:
 ```bash
 pip install pandas matplotlib
-
+```
 ## UI developed with Gemini Pro,  NumPy written manualy
